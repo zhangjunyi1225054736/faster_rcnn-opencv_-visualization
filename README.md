@@ -8,7 +8,7 @@ A little change is made to the visual parts of the faster_rcnn (pytorch) version
 
 
 Result
-![image][https://github.com/zhangjunyi1225054736/faster_rcnn-opencv_-visualization/blob/master/output/000456.jpg]
+![image](https://github.com/zhangjunyi1225054736/faster_rcnn-opencv_-visualization/blob/master/output/000456.jpg)
 
 
 Usage
