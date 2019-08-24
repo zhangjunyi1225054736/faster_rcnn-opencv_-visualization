@@ -1,4 +1,4 @@
-﻿# faster_rcnn-opencv_-visualization
+﻿# faster_rcnn-opencv_visualization
   A little change has been made to the visual parts of the faster_rcnn (pytorch) version of demo.py. (the path of faster_rcnn (pytorch) is https://github.com/ruotianluo/pytorch-faster-rcnn)
 
 Content
